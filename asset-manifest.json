@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/stephanBV/simplestorage/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/stephanBV/simplestorage/static/js/main.dfaa31c9.chunk.js",
-    "main.js.map": "/stephanBV/simplestorage/static/js/main.dfaa31c9.chunk.js.map",
-    "runtime-main.js": "/stephanBV/simplestorage/static/js/runtime-main.b6ae44c1.js",
-    "runtime-main.js.map": "/stephanBV/simplestorage/static/js/runtime-main.b6ae44c1.js.map",
-    "static/js/2.cd5162ff.chunk.js": "/stephanBV/simplestorage/static/js/2.cd5162ff.chunk.js",
-    "static/js/2.cd5162ff.chunk.js.map": "/stephanBV/simplestorage/static/js/2.cd5162ff.chunk.js.map",
-    "static/js/3.2b59066f.chunk.js": "/stephanBV/simplestorage/static/js/3.2b59066f.chunk.js",
-    "static/js/3.2b59066f.chunk.js.map": "/stephanBV/simplestorage/static/js/3.2b59066f.chunk.js.map",
-    "index.html": "/stephanBV/simplestorage/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/stephanBV/simplestorage/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.cd5162ff.chunk.js.LICENSE.txt": "/stephanBV/simplestorage/static/js/2.cd5162ff.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/stephanBV/simplestorage/static/media/logo.6ce24c58.svg"
+    "main.css": "/simplestorage/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/simplestorage/static/js/main.dfaa31c9.chunk.js",
+    "main.js.map": "/simplestorage/static/js/main.dfaa31c9.chunk.js.map",
+    "runtime-main.js": "/simplestorage/static/js/runtime-main.1dd2b950.js",
+    "runtime-main.js.map": "/simplestorage/static/js/runtime-main.1dd2b950.js.map",
+    "static/js/2.cd5162ff.chunk.js": "/simplestorage/static/js/2.cd5162ff.chunk.js",
+    "static/js/2.cd5162ff.chunk.js.map": "/simplestorage/static/js/2.cd5162ff.chunk.js.map",
+    "static/js/3.2b59066f.chunk.js": "/simplestorage/static/js/3.2b59066f.chunk.js",
+    "static/js/3.2b59066f.chunk.js.map": "/simplestorage/static/js/3.2b59066f.chunk.js.map",
+    "index.html": "/simplestorage/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/simplestorage/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cd5162ff.chunk.js.LICENSE.txt": "/simplestorage/static/js/2.cd5162ff.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simplestorage/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6ae44c1.js",
+    "static/js/runtime-main.1dd2b950.js",
     "static/js/2.cd5162ff.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.dfaa31c9.chunk.js"
