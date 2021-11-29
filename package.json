@@ -1,0 +1,27 @@
+{
+  "name": "simplestorage",
+  "version": "1.0.0",
+  "description": "This is a test for deploying this contract on the ropsten network",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanBV/SimpleStorage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanBV/SimpleStorage/issues"
+  },
+  "homepage": "https://github.com/stephanBV/SimpleStorage#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^10.0.0"
+  }
+}
